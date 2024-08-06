@@ -4,7 +4,6 @@
   "description": "JavaScript microservice for mapping RSS feeds into JSON",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'Building the project...' && mkdir -p dist && cp -r src/* dist/"
   },
   "keywords": [],
   "author": "Lukas Tietenberg",
