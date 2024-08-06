@@ -1,0 +1,16 @@
+{
+  "name": "rss2json-service",
+  "version": "1.0.0",
+  "description": "JavaScript microservice for mapping RSS feeds into JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lukas Tietenberg",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fast-xml-parser": "^4.4.1"
+  }
+}
