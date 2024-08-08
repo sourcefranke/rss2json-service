@@ -1,10 +1,9 @@
 {
   "name": "rss2json-service",
   "version": "1.0.0",
-  "description": "JavaScript microservice for mapping RSS feeds into JSON",
+  "description": "Node.js microservice for mapping RSS feeds into JSON",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'Building the project...' && mkdir -p dir && cp -r build/* dir/"
   },
   "keywords": [],
   "author": "Lukas Tietenberg",
